@@ -1,0 +1,68 @@
+a typology of socialbots
+
+the science of fake news
+
+balancing information exposure in social networks
+
+keeping up with the tweet-dashians: the impact of offical accounts on online rumoring
+
+networked privacy management in facebook: a mixed methods and multinational study
+
+"This has to be the cats" - personal data legibility in networked sensing systems
+
+data narratives: uncovering tensiions in personal data management
+
+how information snowballs: exploring the role of exposure in online rumor propagation
+
+rumors has it : idenfifying misinformation in microblogs
+
+
+credibility and dynamics of collective attention
+
+rumor detection on twitter pertaining to the 2016 us presidential election
+
+it's always april fools' day! on the difficulty of social network misinformation classification via propagation features
+
+towards detecting rumours in social media
+
+on the wisdom of experts vs. crowds: discovering trustworthy topical news in microblogs
+
+content code blurring: a new approach to content extraction
+
+combining content extraction heuristics: the combinE system
+
+dom-based content extraction of html documents
+
+discovering informative content blocks from web documents
+
+credbank a large scale social media corpus with associalted credibility annotations
+
+information credibility on twitter
+
+measuring online social bubbles
+
+why do urban legends go viral
+
+point process modelling of rumour dynamcis in social media
+
+fact-checking effect on vrial hoaxes: a model of misinformation spread in soical networks
+
+analysing how people orient to and spread rumours in social media by looking at covnersational threads
+
+some like it hoax: automated fake news detection in social networks
+
+enquiring minds: early detection of rumors in social media from enquiry posts
+
+credibility and dynamics of collective attention
+
+do rumors diffuse differently from nin-rumors? a systematicall empirical analysis in Sina weibo for rumor identification
+
+detect rumors using time series of social context information on micorblogging websites.
+
+knowledge stream: a network flow approach to support fact checking
+
+overview of the special issue on trust an veracity of information in soical media
+
+understanding aut-vaccination attitudes in social media
+
+rumor deteciton over varying time windows.
